@@ -1,6 +1,6 @@
 codf1shy :)
 - Interested in game dev, likely focussing on game projects and tools/engine dev.
-- Learning C++, also intending to learn C and perhaps Rust in future.
-- Will be exploring graphics programming in OpenGL.
+- Learning C++, intending to learn C and Rust in future.
+- Currently getting into graphics programming with OpenGL.
+- Minimal experience with C# for Unity.
 - Looking to get familiar with both Unreal and Godot.
-- Currently getting uncomfortably familiar with C# for Unity.
